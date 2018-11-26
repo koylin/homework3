@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    text-align: center;
+    display: block;
+}
+
+ .nav{
+    line-height: 60px;
+    height: 60px;
+    background: aqua;
+} 
+.nav-wrap{
+    width: 80px;
+    height: 60px;
+    margin-left: 85px;
+    background: cadetblue;
+    
+}
+.body{
+    margin-left: 85px; 
+}
+.bodyf{
+    margin-left: 85px;
+
+}
+.bodyf>p{
+    text-indent: 20px;
+}
+.last{
+    line-height: 60px;
+    height: 60px;
+    background: aqua;
+}
+s1,s2,s3{
+    display: block;
+    text-align: center;
+}
